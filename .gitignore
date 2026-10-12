@@ -1,0 +1,13 @@
+﻿**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/*.tfplan
+**/crash.log
+**/*.tfvars
+**/*.tfvars.json
+**/*.auto.tfvars
+**/*.auto.tfvars.json
+**/.env
+**/.env.*
+.DS_Store
+Thumbs.db
